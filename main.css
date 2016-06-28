@@ -1,0 +1,44 @@
+.top-section {
+  background: gray;
+  height: 35vh;
+  width: 100%;
+}
+
+.hamburger {
+  color: black;
+  width: 25px;
+  height: 25px;
+}
+.button {
+
+}
+.mid-section {
+height: 35vh;
+width: 100%;
+display: flex;
+flex-wrap: wrap;
+}
+
+.image-1 {
+  background: orange;
+  width: 50%;
+  height: 17.5vh;
+}
+
+.image-2 {
+  background: darkgray;
+  width: 50%;
+  height: 17.5vh;
+}
+
+.image-3 {
+  background: darkgray;
+  width: 50%;
+  height: 17.5vh;
+}
+
+.image-4 {
+  background: orange;
+  width: 50%;
+  height: 17.5vh;
+}
